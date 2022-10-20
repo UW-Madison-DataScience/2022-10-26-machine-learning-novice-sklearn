@@ -19,11 +19,14 @@ The [Anaconda Distribution](https://www.anaconda.com/products/individual#Downloa
 
 From the Anaconda terminal run the command `conda install -c conda-forge opencv`
 
-# Download the data and code
+# Download the code and data
 
-Please create a directory called IntroML located on your desktop. In this directory, create a subfolder called data (i.e., `/Users/username/Desktop/IntroML/data`)
+1. Please create a directory called IntroML located on your desktop. In this directory, create a subfolder called data (i.e., `/Users/username/Desktop/IntroML/data`)
 
-Download the the following files and place them in the data subfolder you just created:
+2. Download the following python script and place it in the IntroML directory located on your Desktop (i.e., `/Users/username/Desktop/IntroML/workshop_helper_functions.py`)
+* [workshop_helper_functions.py](code/workshop_helper_functions.py)
+
+3. Download the the following files and place them in the data subfolder you just created:
 
 * [Gapminder Life Expectancy Data](data/gapminder-life-expectancy.csv)
 * [World Bank GDP Data](data/worldbank-gdp.csv)
@@ -39,9 +42,6 @@ wget https://scw-aberystwyth.github.io/machine-learning-novice/data/worldbank-gd
 wget https://scw-aberystwyth.github.io/machine-learning-novice/data/gapminder-life-expectancy.csv
 ~~~
 {: .language-bash}
-
-Download the following python script and place it in the IntroML directory located on your Desktop (i.e., `/Users/username/Desktop/IntroML/workshop_helper_functions.py`)
-* [workshop_helper_functions.py](code/workshop_helper_functions.py)
 
 
 {% include links.md %}
