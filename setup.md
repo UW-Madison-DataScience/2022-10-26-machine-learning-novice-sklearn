@@ -21,7 +21,7 @@ From the Anaconda terminal run the command `conda install -c conda-forge opencv`
 
 # Download the data and code
 
-Please create a directory called "IntroML" on your Desktop. In this directory, create a subfolder called data (e.g., /Users/username/Desktop/IntroML/data)
+Please create a directory called "IntroML" on your Desktop. In this directory, create a subfolder called data (e.g., `/Users/username/Desktop/IntroML/data`)
 
 Download the the following files and place them in the data subfolder you just created:
 
