@@ -21,7 +21,7 @@ From the Anaconda terminal run the command `conda install -c conda-forge opencv`
 
 # Download the data and code
 
-Please create a directory called "IntroML" on your Desktop. In this directory, create a subfolder called data (e.g., `/Users/username/Desktop/IntroML/data`)
+Please create a directory called IntroML located on your desktop. In this directory, create a subfolder called data (i.e., `/Users/username/Desktop/IntroML/data`)
 
 Download the the following files and place them in the data subfolder you just created:
 
@@ -40,7 +40,7 @@ wget https://scw-aberystwyth.github.io/machine-learning-novice/data/gapminder-li
 ~~~
 {: .language-bash}
 
-Download the following python script and place it in the IntroML directory located on your Desktop (e.g., /Users/username/Desktop/IntroML/workshop_helper_functions.py)
+Download the following python script and place it in the IntroML directory located on your Desktop (i.e., `/Users/username/Desktop/IntroML/workshop_helper_functions.py`)
 * [workshop_helper_functions.py](code/workshop_helper_functions.py)
 
 
