@@ -19,12 +19,6 @@ The [Anaconda Distribution](https://www.anaconda.com/products/individual#Downloa
 
 From the Anaconda terminal run the command `conda install -c conda-forge opencv`
 
-# Create workshop folder on Desktop
-
-Please
-# Download helper functions
-
-
 # Download the data and code
 
 Please create a directory called "IntroML" on your Desktop. In this directory, create a subfolder called data (e.g., /Users/username/Desktop/IntroML/data)
