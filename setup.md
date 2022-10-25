@@ -23,8 +23,8 @@ From the Anaconda terminal run the command `conda install -c conda-forge opencv`
 
 1. Please create a directory called IntroML located on your desktop. In this directory, create a subfolder called data (i.e., `/Users/username/Desktop/IntroML/data`)
 
-2. Download the following python script and place it in the IntroML directory located on your Desktop (i.e., `/Users/username/Desktop/IntroML/workshop_helper_functions.py`)
-* [helper_functions](helper_functions/)
+2. Download the following python scripts and place them in the IntroML directory located on your Desktop (e.g., `/Users/username/Desktop/IntroML/regression_helper_functions.py`)
+* [regression_helper_functions.py](code/regression_helper_functions.py)
 
 3. Download the the following files and place them in the data subfolder you just created:
 
