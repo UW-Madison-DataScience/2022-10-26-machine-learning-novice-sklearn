@@ -278,10 +278,10 @@ print("Testing set score", mlp2.score(X_test, y_test))
 
 
 
-### Using cross-validation to determing optimal hyperparameter value. 
+### Using cross-validation to determing optimal hyperparameter value.
 Here, we use a train/test/validation split in order to assess how different values of the learning rate hyperparameter impact model performance.
 
-The K-fold cross-validation procedure works as follows. We first split our data into training and test sets as usual. Then, or each possible value of the hyperparameter being tested...
+The K-fold cross-validation procedure works as follows. We first split our data into training and test sets as usual. Then, for each possible value of the hyperparameter being tested...
 1. We take our training data and split it into K equal-sized subsets (called folds).
 2. We use K-1 of the folds for training the model, and the remaining fold for assessing the model's performance after training. This remaining fold is known as the validation set.
 3. We repeat step 2 for each possible validation set (K total) and their associated training sets (the folds that were not left out)
